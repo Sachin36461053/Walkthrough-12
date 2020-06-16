@@ -5,3 +5,6 @@ sfdc:
   username: "ssg@uow.com"
   password: "Jerry@3646"
   token: "32yQCaWvkKE6LdiJKxn50aJZ"
+  
+file:
+  accountsDir: "/Users/sachinsajan/Downloads/MUFundamentals4.3_studentFiles_12may2020/resources"
